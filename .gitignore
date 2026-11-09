@@ -1,0 +1,103 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Gemini / AntiGravity IDE artifacts
+.gemini/
+
+# Temporary unpacked directories and system logs
+/*_extracted/
+/KISA 범피스 1310.exe_extracted/
+NVIDIA Corporation/
+*.log
+
+# MCP server runtime demo outputs
+mcp_server/demo_outputs/
+
+# Large binary executables (keep repo lightweight)
+reference/*.exe
+*.exe
+# Scratch temporary directory and media
+scratch/
+
+# External reference git repositories (prevent nested git / submodule conflict)
+reference/officemcp/
+reference/ms-365-mcp-server/
+reference/MCP-Microsoft-Office/
+reference/Paper2Slides/
+reference/astryx/
+reference/genoffice/
+reference/ppt-master/
+reference/presenton/
+reference/AionUi/
+reference/AionCore/
+reference/OfficeCLI/
+
+# Local data & Crawled datasets (keep repo lightweight and secure)
+data/*
+!data/*.json
+
+# Microsoft Office & Hangul temporary lock files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+~$*.hwp*
+*.tmp
+*.temp
+*.pptx
+*.docx
+*.xlsx
+
+# Temporary debug dumps & HTML captures
+*_debug.txt
+debug.txt
+*.html
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+.DS_Store
+[Dd]esktop.ini
+
+# Python test & coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Scratch temporary media
+scratch/*.png
+scratch/*.pptx
+scratch/comparisons/
+scratch/aesthetic_renders/
+scratch/rubric_renders/
+output_*/

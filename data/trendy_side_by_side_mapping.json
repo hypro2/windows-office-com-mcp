@@ -1,0 +1,762 @@
+{
+  "미니멀_타이포_원라인_표지": {
+    "tech_id": "tech_001",
+    "technique_name": "미니멀_타이포_원라인_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 0
+  },
+  "세로_넘버링_리스트_목차": {
+    "tech_id": "tech_002",
+    "technique_name": "세로_넘버링_리스트_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 10
+  },
+  "좌우_1:1_히어로_사진_스플릿_카드": {
+    "tech_id": "tech_003",
+    "technique_name": "좌우_1:1_히어로_사진_스플릿_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "넘버링_배지_2단카드": {
+    "tech_id": "tech_004",
+    "technique_name": "넘버링_배지_2단카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "수직_2단_스트라이프_목차": {
+    "tech_id": "tech_005",
+    "technique_name": "수직_2단_스트라이프_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "추진일정_월별_마일스톤표": {
+    "tech_id": "tech_006",
+    "technique_name": "추진일정_월별_마일스톤표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "KISA식_1_가_(1)_공문서형_위계본문": {
+    "tech_id": "tech_007",
+    "technique_name": "KISA식_1_가_(1)_공문서형_위계본문",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 8
+  },
+  "수직_2단_가로바_리스트_카드": {
+    "tech_id": "tech_008",
+    "technique_name": "수직_2단_가로바_리스트_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "수직_3단_가로바_리스트_카드": {
+    "tech_id": "tech_009",
+    "technique_name": "수직_3단_가로바_리스트_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 3
+  },
+  "2단_수평_대등_핵심과제_카드그리드": {
+    "tech_id": "tech_010",
+    "technique_name": "2단_수평_대등_핵심과제_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 14
+  },
+  "표준_비즈니스_개조식_단락본문": {
+    "tech_id": "tech_011",
+    "technique_name": "표준_비즈니스_개조식_단락본문",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "네이티브_비즈니스_통계차트": {
+    "tech_id": "tech_012",
+    "technique_name": "네이티브_비즈니스_통계차트",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "3단_사진_상단결합_비주얼카드": {
+    "tech_id": "tech_013",
+    "technique_name": "3단_사진_상단결합_비주얼카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "스마트폰_모바일앱_지시선_콜아웃": {
+    "tech_id": "tech_014",
+    "technique_name": "스마트폰_모바일앱_지시선_콜아웃",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 5
+  },
+  "측면오픈형_비즈니스_명세표": {
+    "tech_id": "tech_015",
+    "technique_name": "측면오픈형_비즈니스_명세표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 20
+  },
+  "1:2_비대칭_좌측요약_+_우측상세_카드": {
+    "tech_id": "tech_016",
+    "technique_name": "1:2_비대칭_좌측요약_+_우측상세_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "2:1_비대칭_좌측상세_+_우측콜아웃_카드": {
+    "tech_id": "tech_017",
+    "technique_name": "2:1_비대칭_좌측상세_+_우측콜아웃_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 5
+  },
+  "미니멀_라인_간지": {
+    "tech_id": "tech_018",
+    "technique_name": "미니멀_라인_간지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 22
+  },
+  "Thank_You_미니멀_엔딩": {
+    "tech_id": "tech_019",
+    "technique_name": "Thank_You_미니멀_엔딩",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "풀배경_다크_비주얼_표지": {
+    "tech_id": "tech_020",
+    "technique_name": "풀배경_다크_비주얼_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 8
+  },
+  "좌우_2분할_컬러블록_표지": {
+    "tech_id": "tech_021",
+    "technique_name": "좌우_2분할_컬러블록_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "컬러_풀블록_섹션_간지": {
+    "tech_id": "tech_022",
+    "technique_name": "컬러_풀블록_섹션_간지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "좌측_빅넘버_우측_섹션명_분할간지": {
+    "tech_id": "tech_023",
+    "technique_name": "좌측_빅넘버_우측_섹션명_분할간지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 22
+  },
+  "중앙_특대형_빅넘버_챕터간지": {
+    "tech_id": "tech_024",
+    "technique_name": "중앙_특대형_빅넘버_챕터간지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 13
+  },
+  "카드_오버레이_비즈니스_표지": {
+    "tech_id": "tech_025",
+    "technique_name": "카드_오버레이_비즈니스_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 13
+  },
+  "강조선_콜아웃_배너_장표": {
+    "tech_id": "tech_026",
+    "technique_name": "강조선_콜아웃_배너_장표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "비주얼_배경사진_감사인사_엔딩": {
+    "tech_id": "tech_027",
+    "technique_name": "비주얼_배경사진_감사인사_엔딩",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "풀배경_이미지_표지": {
+    "tech_id": "tech_028",
+    "technique_name": "풀배경_이미지_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 24
+  },
+  "대형_따옴표_슬로건_박스": {
+    "tech_id": "tech_029",
+    "technique_name": "대형_따옴표_슬로건_박스",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 16
+  },
+  "3단_아이콘_원형_헤더_카드": {
+    "tech_id": "tech_030",
+    "technique_name": "3단_아이콘_원형_헤더_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "3단_경영실적_증감배지_KPI": {
+    "tech_id": "tech_031",
+    "technique_name": "3단_경영실적_증감배지_KPI",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 5
+  },
+  "수직_4단_가로바_리스트_카드": {
+    "tech_id": "tech_032",
+    "technique_name": "수직_4단_가로바_리스트_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "4단_가로_파이프라인형_카드그리드": {
+    "tech_id": "tech_033",
+    "technique_name": "4단_가로_파이프라인형_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 20
+  },
+  "Q&A_질의응답_엔딩": {
+    "tech_id": "tech_034",
+    "technique_name": "Q&A_질의응답_엔딩",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "볼드_빅타이포_임팩트_표지": {
+    "tech_id": "tech_035",
+    "technique_name": "볼드_빅타이포_임팩트_표지",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "5단_슬림_핵심과제_카드그리드": {
+    "tech_id": "tech_036",
+    "technique_name": "5단_슬림_핵심과제_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 5
+  },
+  "상하_3단_스텝_프로세스_바": {
+    "tech_id": "tech_037",
+    "technique_name": "상하_3단_스텝_프로세스_바",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "동심원_3중_과녁모델": {
+    "tech_id": "tech_038",
+    "technique_name": "동심원_3중_과녁모델",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "연락처결합_클로징_엔딩": {
+    "tech_id": "tech_039",
+    "technique_name": "연락처결합_클로징_엔딩",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "장문형_내러티브_설명문_본문": {
+    "tech_id": "tech_040",
+    "technique_name": "장문형_내러티브_설명문_본문",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "선형_3단계_셰브론_파이프라인": {
+    "tech_id": "tech_041",
+    "technique_name": "선형_3단계_셰브론_파이프라인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "넘버링_배지_4단카드": {
+    "tech_id": "tech_042",
+    "technique_name": "넘버링_배지_4단카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 10
+  },
+  "아이콘_헤더_결합_2단카드": {
+    "tech_id": "tech_043",
+    "technique_name": "아이콘_헤더_결합_2단카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 19
+  },
+  "체크포인트_불릿_개조식_본문": {
+    "tech_id": "tech_044",
+    "technique_name": "체크포인트_불릿_개조식_본문",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 3
+  },
+  "Pros_vs_Cons_장단점_대조표": {
+    "tech_id": "tech_045",
+    "technique_name": "Pros_vs_Cons_장단점_대조표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "상단요약박스_+_하단개조식_본문": {
+    "tech_id": "tech_046",
+    "technique_name": "상단요약박스_+_하단개조식_본문",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "수직_3단_스트라이프_목차": {
+    "tech_id": "tech_047",
+    "technique_name": "수직_3단_스트라이프_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "1개_특대형_빅넘버_단독강조": {
+    "tech_id": "tech_048",
+    "technique_name": "1개_특대형_빅넘버_단독강조",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 12
+  },
+  "오피스약도_본사주소_안내블록": {
+    "tech_id": "tech_049",
+    "technique_name": "오피스약도_본사주소_안내블록",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "가로_3열_카드형_목차": {
+    "tech_id": "tech_050",
+    "technique_name": "가로_3열_카드형_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 7
+  },
+  "가로_4열_카드형_목차": {
+    "tech_id": "tech_051",
+    "technique_name": "가로_4열_카드형_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 7
+  },
+  "3단_이미지_쇼케이스_그리드": {
+    "tech_id": "tech_052",
+    "technique_name": "3단_이미지_쇼케이스_그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 24
+  },
+  "멀티트랙_간트차트_일정표": {
+    "tech_id": "tech_053",
+    "technique_name": "멀티트랙_간트차트_일정표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "3단_표준_핵심과제_카드그리드": {
+    "tech_id": "tech_054",
+    "technique_name": "3단_표준_핵심과제_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 13
+  },
+  "Top_1~5_랭킹_리더보드": {
+    "tech_id": "tech_055",
+    "technique_name": "Top_1~5_랭킹_리더보드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 1
+  },
+  "6단_슬림_카드그리드": {
+    "tech_id": "tech_056",
+    "technique_name": "6단_슬림_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "4단_비주얼_갤러리": {
+    "tech_id": "tech_057",
+    "technique_name": "4단_비주얼_갤러리",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "4단_대시보드_핵심수치_그리드": {
+    "tech_id": "tech_058",
+    "technique_name": "4단_대시보드_핵심수치_그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 7
+  },
+  "비대칭_매스너리_포트폴리오": {
+    "tech_id": "tech_059",
+    "technique_name": "비대칭_매스너리_포트폴리오",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "4열_사각사진_프로젝트팀_카드": {
+    "tech_id": "tech_060",
+    "technique_name": "4열_사각사진_프로젝트팀_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 23
+  },
+  "좌측_빅넘버_+_우측_상세불릿_분할형": {
+    "tech_id": "tech_061",
+    "technique_name": "좌측_빅넘버_+_우측_상세불릿_분할형",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "2단_주요지표_대조카드": {
+    "tech_id": "tech_062",
+    "technique_name": "2단_주요지표_대조카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "세계지도_글로벌진출_거점핀": {
+    "tech_id": "tech_063",
+    "technique_name": "세계지도_글로벌진출_거점핀",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "2열_원형사진_임원진_프로필": {
+    "tech_id": "tech_064",
+    "technique_name": "2열_원형사진_임원진_프로필",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 1
+  },
+  "상하_2단_스텝_프로세스_바": {
+    "tech_id": "tech_065",
+    "technique_name": "상하_2단_스텝_프로세스_바",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "3단_피라미드(비전-전략-과제)": {
+    "tech_id": "tech_066",
+    "technique_name": "3단_피라미드(비전-전략-과제)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "3열_원형사진_임원진_프로필": {
+    "tech_id": "tech_067",
+    "technique_name": "3열_원형사진_임원진_프로필",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 7
+  },
+  "AS-IS_vs_TO-BE_2단_대칭패널": {
+    "tech_id": "tech_068",
+    "technique_name": "AS-IS_vs_TO-BE_2단_대칭패널",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "4단_피라미드(철학-비전-전략-실행과제)": {
+    "tech_id": "tech_069",
+    "technique_name": "4단_피라미드(철학-비전-전략-실행과제)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "3단_가격표_티어_비교(Basic-Pro-Enterprise)": {
+    "tech_id": "tech_070",
+    "technique_name": "3단_가격표_티어_비교(Basic-Pro-Enterprise)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "수직_4단_스트라이프_목차": {
+    "tech_id": "tech_071",
+    "technique_name": "수직_4단_스트라이프_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 10
+  },
+  "선형_3단계_화살표_체인": {
+    "tech_id": "tech_072",
+    "technique_name": "선형_3단계_화살표_체인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 14
+  },
+  "타임라인_연결형_목차": {
+    "tech_id": "tech_073",
+    "technique_name": "타임라인_연결형_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "비중_도넛게이지_점유율_지표": {
+    "tech_id": "tech_074",
+    "technique_name": "비중_도넛게이지_점유율_지표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 16
+  },
+  "상태배지결합_업무진척_현황표": {
+    "tech_id": "tech_075",
+    "technique_name": "상태배지결합_업무진척_현황표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 12
+  },
+  "수평_게이지_목표달성률_프로그레스바": {
+    "tech_id": "tech_076",
+    "technique_name": "수평_게이지_목표달성률_프로그레스바",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "4열_원형사진_임원진_프로필": {
+    "tech_id": "tech_077",
+    "technique_name": "4열_원형사진_임원진_프로필",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 11
+  },
+  "2x2_직교_우선순위_매트릭스(난이도_vs_효과)": {
+    "tech_id": "tech_078",
+    "technique_name": "2x2_직교_우선순위_매트릭스(난이도_vs_효과)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "넘버링_배지_3단카드": {
+    "tech_id": "tech_079",
+    "technique_name": "넘버링_배지_3단카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 21
+  },
+  "6단_2x3_격자형_카드그리드": {
+    "tech_id": "tech_080",
+    "technique_name": "6단_2x3_격자형_카드그리드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 3
+  },
+  "상하_4단_스텝_프로세스_바": {
+    "tech_id": "tech_081",
+    "technique_name": "상하_4단_스텝_프로세스_바",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 14
+  },
+  "SWOT_4분할_전략분석카드(SO-ST-WO-WT)": {
+    "tech_id": "tech_082",
+    "technique_name": "SWOT_4분할_전략분석카드(SO-ST-WO-WT)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 8
+  },
+  "4단_사진_상단결합_비주얼카드": {
+    "tech_id": "tech_083",
+    "technique_name": "4단_사진_상단결합_비주얼카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 19
+  },
+  "4대_기둥_신전모델(Pillars on Base)": {
+    "tech_id": "tech_084",
+    "technique_name": "4대_기둥_신전모델(Pillars on Base)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 4
+  },
+  "선형_6단계_화살표_체인": {
+    "tech_id": "tech_085",
+    "technique_name": "선형_6단계_화살표_체인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "역할분담_R&R_조직표": {
+    "tech_id": "tech_086",
+    "technique_name": "역할분담_R&R_조직표",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 21
+  },
+  "퍼즐조각_결합형_파트너십": {
+    "tech_id": "tech_087",
+    "technique_name": "퍼즐조각_결합형_파트너십",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 6
+  },
+  "선형_4단계_화살표_체인": {
+    "tech_id": "tech_088",
+    "technique_name": "선형_4단계_화살표_체인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 17
+  },
+  "중심축_3개년_마일스톤_타임라인": {
+    "tech_id": "tech_089",
+    "technique_name": "중심축_3개년_마일스톤_타임라인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 18
+  },
+  "5열_사각사진_프로젝트팀_카드": {
+    "tech_id": "tech_090",
+    "technique_name": "5열_사각사진_프로젝트팀_카드",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 16
+  },
+  "선형_2단계_화살표_체인": {
+    "tech_id": "tech_091",
+    "technique_name": "선형_2단계_화살표_체인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 15
+  },
+  "선형_5단계_화살표_체인": {
+    "tech_id": "tech_092",
+    "technique_name": "선형_5단계_화살표_체인",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 16
+  },
+  "좌우_분할_대형타이틀_목차": {
+    "tech_id": "tech_093",
+    "technique_name": "좌우_분할_대형타이틀_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 9
+  },
+  "수평_3~4단_레이어드_스택(인프라-플랫폼-서비스)": {
+    "tech_id": "tech_094",
+    "technique_name": "수평_3~4단_레이어드_스택(인프라-플랫폼-서비스)",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 7
+  },
+  "아이콘_결합_그리드_목차": {
+    "tech_id": "tech_095",
+    "technique_name": "아이콘_결합_그리드_목차",
+    "golden_thumb": "",
+    "generated_thumb": "",
+    "source_file": "",
+    "slide_index": 10
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "cover_magenta_title": {
+    "catalog_id": "cover_magenta_title",
+    "korean_name": "비바마젠타_감각적_빅타이틀_표지",
+    "category": "cover",
+    "role": "cover",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 1,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 5,
+    "total_text_boxes": 2,
+    "title_target": "",
+    "slots_count": 1,
+    "slot_targets": [
+      "Viva\nMagenta"
+    ]
+  },
+  "cover_blue_modern": {
+    "catalog_id": "cover_blue_modern",
+    "korean_name": "기본심플_모던블루_기업형_표지",
+    "category": "cover",
+    "role": "cover",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 1,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 1,
+    "title_target": "",
+    "slots_count": 1,
+    "slot_targets": [
+      "Go to the basic"
+    ]
+  },
+  "cover_esg_green": {
+    "catalog_id": "cover_esg_green",
+    "korean_name": "ESG지속경영_친환경_미니멀_표지",
+    "category": "cover",
+    "role": "cover",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 1,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 7,
+    "total_text_boxes": 4,
+    "title_target": "2022-2학기\n○○○○○○○ 발표",
+    "slots_count": 2,
+    "slot_targets": [
+      "지속 가능한 성장\nESG 경영",
+      ""
+    ]
+  },
+  "cover_black_white_minimal": {
+    "catalog_id": "cover_black_white_minimal",
+    "korean_name": "모던블랙앤화이트_시크_표지",
+    "category": "cover",
+    "role": "cover",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 1,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 2,
+    "title_target": "",
+    "slots_count": 1,
+    "slot_targets": [
+      "Black&White"
+    ]
+  },
+  "cover_database_tech": {
+    "catalog_id": "cover_database_tech",
+    "korean_name": "데이터베이스_IT테크_모던_표지",
+    "category": "cover",
+    "role": "cover",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 1,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 6,
+    "total_text_boxes": 4,
+    "title_target": "",
+    "slots_count": 3,
+    "slot_targets": [
+      "Database",
+      "소제목을 입력하세요",
+      "2023.05.15\n작성자 홍길동"
+    ]
+  },
+  "agenda_magenta_visual_right": {
+    "catalog_id": "agenda_magenta_visual_right",
+    "korean_name": "비바마젠타_우측비주얼사진_4단목차",
+    "category": "agenda",
+    "role": "agenda",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 4,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 13,
+    "total_text_boxes": 11,
+    "title_target": "목차",
+    "slots_count": 9,
+    "slot_targets": [
+      "a table of contents",
+      "1",
+      "제목을 입력하세요",
+      "2",
+      "제목을 입력하세요",
+      "3"
+    ]
+  },
+  "agenda_blue_vertical_list": {
+    "catalog_id": "agenda_blue_vertical_list",
+    "korean_name": "모던블루_세로4단_넘버링목차",
+    "category": "agenda",
+    "role": "agenda",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 4,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 2,
+    "title_target": "1",
+    "slots_count": 1,
+    "slot_targets": [
+      "제목을 입력하세요"
+    ]
+  },
+  "agenda_esg_clean_grid": {
+    "catalog_id": "agenda_esg_clean_grid",
+    "korean_name": "ESG_클린_4단_순서목차",
+    "category": "agenda",
+    "role": "agenda",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 4,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 27,
+    "total_text_boxes": 4,
+    "title_target": "제목을 입력하세요",
+    "slots_count": 3,
+    "slot_targets": [
+      "E",
+      "S",
+      "G"
+    ]
+  },
+  "agenda_black_white_split": {
+    "catalog_id": "agenda_black_white_split",
+    "korean_name": "블랙앤화이트_좌우분할_목차",
+    "category": "agenda",
+    "role": "agenda",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 3,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 5,
+    "total_text_boxes": 3,
+    "title_target": "",
+    "slots_count": 2,
+    "slot_targets": [
+      "Part 1",
+      "제목을 입력하세요"
+    ]
+  },
+  "cards_magenta_2col_visual": {
+    "catalog_id": "cards_magenta_2col_visual",
+    "korean_name": "비바마젠타_2단_사진카드_그리드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 6,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 13,
+    "total_text_boxes": 6,
+    "title_target": "Part 1",
+    "slots_count": 5,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "내용을\n입력하세요",
+      "항목 1",
+      "항목 2",
+      "항목 3"
+    ]
+  },
+  "cards_magenta_3col_standard": {
+    "catalog_id": "cards_magenta_3col_standard",
+    "korean_name": "비바마젠타_3단_핵심과제_카드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 8,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 15,
+    "total_text_boxes": 8,
+    "title_target": "Part 1",
+    "slots_count": 7,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "내용을 입력하세요",
+      "내용을 입력하세요",
+      "내용을 입력하세요",
+      "내용을 입력하세요",
+      "내용을 입력하세요"
+    ]
+  },
+  "cards_magenta_4col_horizontal": {
+    "catalog_id": "cards_magenta_4col_horizontal",
+    "korean_name": "비바마젠타_4단_수평_전략카드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 13,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 12,
+    "total_text_boxes": 8,
+    "title_target": "Part 2",
+    "slots_count": 7,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "소제목을 입력하세요",
+      "그리워 멀리 하나에 이름과, 무엇인지 별에도 어머니 이름자 거외다. 하나에 슬퍼하는 너무나 위에 된 봅니다. 없이 별에도 이름을 나는 풀이 거외다.",
+      "소제목을 입력하세요",
+      "소제목을 입력하세요",
+      "그리워 멀리 하나에 이름과, 무엇인지 별에도 어머니 이름자 거외다. 하나에 슬퍼하는 너무나 위에 된 봅니다. 없이 별에도 이름을 나는 풀이 거외다."
+    ]
+  },
+  "cards_blue_3col_pill": {
+    "catalog_id": "cards_blue_3col_pill",
+    "korean_name": "모던블루_3단_박스카드_그리드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 7,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 12,
+    "total_text_boxes": 8,
+    "title_target": ">>",
+    "slots_count": 7,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "Part 1",
+      ">",
+      "내용을 입력하세요",
+      "내용을 입력하세요",
+      ">"
+    ]
+  },
+  "cards_blue_4col_feature": {
+    "catalog_id": "cards_blue_4col_feature",
+    "korean_name": "모던블루_4단_아이콘배지_카드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 12,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 9,
+    "total_text_boxes": 5,
+    "title_target": ">>",
+    "slots_count": 4,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "Part 2",
+      "내용을 입력하세요",
+      "내용을 입력하세요"
+    ]
+  },
+  "cards_esg_3col_pillars": {
+    "catalog_id": "cards_esg_3col_pillars",
+    "korean_name": "ESG_3대핵심전략_필러카드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 6,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 22,
+    "total_text_boxes": 6,
+    "title_target": "제목을 입력하세요",
+    "slots_count": 5,
+    "slot_targets": [
+      "요소 1",
+      "요소 2",
+      "요소 3",
+      "요소 4",
+      "요소 5"
+    ]
+  },
+  "cards_bw_2col_contrast": {
+    "catalog_id": "cards_bw_2col_contrast",
+    "korean_name": "블랙앤화이트_2단_대등_강조카드",
+    "category": "cards",
+    "role": "cards",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 7,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 9,
+    "total_text_boxes": 4,
+    "title_target": "Part 1   >>",
+    "slots_count": 3,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "제목을 입력하세요",
+      "제목을 입력하세요"
+    ]
+  },
+  "process_magenta_4step_chain": {
+    "catalog_id": "process_magenta_4step_chain",
+    "korean_name": "비바마젠타_4단계_스텝_프로세스",
+    "category": "process",
+    "role": "process",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 7,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 21,
+    "total_text_boxes": 12,
+    "title_target": "Part 1",
+    "slots_count": 11,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "요소1",
+      "요소1",
+      "요소1",
+      "요소2",
+      "요소1"
+    ]
+  },
+  "process_magenta_3step_chevron": {
+    "catalog_id": "process_magenta_3step_chevron",
+    "korean_name": "비바마젠타_3단계_셰브론_프로세스",
+    "category": "process",
+    "role": "process",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 11,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 18,
+    "total_text_boxes": 7,
+    "title_target": "Part 2",
+    "slots_count": 6,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "5단계",
+      "3단계",
+      "4단계",
+      "1단계",
+      "2단계"
+    ]
+  },
+  "process_blue_4step_arrow": {
+    "catalog_id": "process_blue_4step_arrow",
+    "korean_name": "모던블루_4단계_화살표_체인",
+    "category": "process",
+    "role": "process",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 10,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 2,
+    "title_target": "2",
+    "slots_count": 1,
+    "slot_targets": [
+      "제목을 입력하세요"
+    ]
+  },
+  "process_esg_5step_flow": {
+    "catalog_id": "process_esg_5step_flow",
+    "korean_name": "ESG_5단계_체계적_실행프로세스",
+    "category": "process",
+    "role": "process",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 14,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 8,
+    "total_text_boxes": 4,
+    "title_target": "제목을 입력하세요",
+    "slots_count": 3,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "제목을 입력하세요",
+      "제목을 입력하세요"
+    ]
+  },
+  "compare_magenta_asis_tobe": {
+    "catalog_id": "compare_magenta_asis_tobe",
+    "korean_name": "비바마젠타_2단_AS-IS_vs_TO-BE_비교",
+    "category": "comparison",
+    "role": "comparison",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 14,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 9,
+    "total_text_boxes": 5,
+    "title_target": "Part 2",
+    "slots_count": 4,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "설명을 입력하세요",
+      "설명을 입력하세요",
+      "설명을 입력하세요"
+    ]
+  },
+  "compare_blue_versus_cards": {
+    "catalog_id": "compare_blue_versus_cards",
+    "korean_name": "모던블루_VS_대칭대조_2단카드",
+    "category": "comparison",
+    "role": "comparison",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 9,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 22,
+    "total_text_boxes": 10,
+    "title_target": ">>",
+    "slots_count": 9,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "Part 1",
+      "1",
+      "2",
+      "3",
+      "소제목을 입력하세요"
+    ]
+  },
+  "compare_bw_pros_cons": {
+    "catalog_id": "compare_bw_pros_cons",
+    "korean_name": "블랙앤화이트_장단점_대조표",
+    "category": "comparison",
+    "role": "comparison",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 11,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 9,
+    "total_text_boxes": 4,
+    "title_target": "Part 2  >>",
+    "slots_count": 3,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "내용을 입력하세요",
+      "내용을 입력하세요"
+    ]
+  },
+  "timeline_magenta_3years": {
+    "catalog_id": "timeline_magenta_3years",
+    "korean_name": "비바마젠타_3개년_연도별_타임라인",
+    "category": "timeline",
+    "role": "timeline",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 18,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 32,
+    "total_text_boxes": 9,
+    "title_target": "Part 3",
+    "slots_count": 8,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ]
+  },
+  "timeline_blue_quarterly_roadmap": {
+    "catalog_id": "timeline_blue_quarterly_roadmap",
+    "korean_name": "모던블루_분기별_추진일정_로드맵",
+    "category": "timeline",
+    "role": "timeline",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 18,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 6,
+    "total_text_boxes": 4,
+    "title_target": ">>",
+    "slots_count": 3,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "Part 3",
+      "내용을 입력하세요"
+    ]
+  },
+  "timeline_esg_milestones": {
+    "catalog_id": "timeline_esg_milestones",
+    "korean_name": "ESG_연도별_단계적_마일스톤",
+    "category": "timeline",
+    "role": "timeline",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 16,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 1,
+    "title_target": "제목을 입력하세요",
+    "slots_count": 0,
+    "slot_targets": []
+  },
+  "kpi_magenta_big_number_pct": {
+    "catalog_id": "kpi_magenta_big_number_pct",
+    "korean_name": "비바마젠타_빅넘버_퍼센트_통계",
+    "category": "kpi",
+    "role": "kpi",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 22,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 213,
+    "total_text_boxes": 6,
+    "title_target": "Part 4",
+    "slots_count": 5,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "B",
+      "A",
+      "85%",
+      "62%"
+    ]
+  },
+  "kpi_blue_3col_metrics": {
+    "catalog_id": "kpi_blue_3col_metrics",
+    "korean_name": "모던블루_3대핵심_KPI_지표카드",
+    "category": "kpi",
+    "role": "kpi",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 15,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 2,
+    "title_target": "3",
+    "slots_count": 1,
+    "slot_targets": [
+      "제목을 입력하세요"
+    ]
+  },
+  "kpi_db_growth_stats": {
+    "catalog_id": "kpi_db_growth_stats",
+    "korean_name": "데이터베이스_성장지표_통계카드",
+    "category": "kpi",
+    "role": "kpi",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 14,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 5,
+    "total_text_boxes": 3,
+    "title_target": "Part 3",
+    "slots_count": 1,
+    "slot_targets": [
+      "제목을 입력하세요"
+    ]
+  },
+  "table_blue_spec_matrix": {
+    "catalog_id": "table_blue_spec_matrix",
+    "korean_name": "모던블루_비즈니스_상세명세표",
+    "category": "table",
+    "role": "table",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 19,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 9,
+    "total_text_boxes": 4,
+    "title_target": ">>",
+    "slots_count": 3,
+    "slot_targets": [
+      "제목을 입력하세요",
+      "Part 3",
+      "XXXX년도 제2분기 실적"
+    ]
+  },
+  "table_esg_checklist_grid": {
+    "catalog_id": "table_esg_checklist_grid",
+    "korean_name": "ESG_체크리스트_점검현황표",
+    "category": "table",
+    "role": "table",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 19,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 212,
+    "total_text_boxes": 5,
+    "title_target": "제목을 입력하세요",
+    "slots_count": 4,
+    "slot_targets": [
+      "B",
+      "A",
+      "85%",
+      "62%"
+    ]
+  },
+  "divider_magenta_part_split": {
+    "catalog_id": "divider_magenta_part_split",
+    "korean_name": "비바마젠타_감각적_섹션_간지",
+    "category": "divider",
+    "role": "divider",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 5,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 6,
+    "total_text_boxes": 3,
+    "title_target": "",
+    "slots_count": 2,
+    "slot_targets": [
+      "Part 1",
+      "제목을 입력하세요"
+    ]
+  },
+  "divider_blue_clean_section": {
+    "catalog_id": "divider_blue_clean_section",
+    "korean_name": "모던블루_깔끔한_챕터_간지",
+    "category": "divider",
+    "role": "divider",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 5,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 10,
+    "total_text_boxes": 6,
+    "title_target": ">>",
+    "slots_count": 5,
+    "slot_targets": [
+      "Part 1 요약",
+      "Part 1",
+      "텍스트 입력",
+      "텍스트 입력",
+      "텍스트 입력"
+    ]
+  },
+  "closing_magenta_thank_you": {
+    "catalog_id": "closing_magenta_thank_you",
+    "korean_name": "비바마젠타_세련된_엔딩_땡큐",
+    "category": "closing",
+    "role": "closing",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 28,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 2,
+    "total_text_boxes": 1,
+    "title_target": "",
+    "slots_count": 1,
+    "slot_targets": [
+      "키워드\nKeyword"
+    ]
+  },
+  "closing_blue_minimal_qa": {
+    "catalog_id": "closing_blue_minimal_qa",
+    "korean_name": "모던블루_Q&A_엔딩_슬라이드",
+    "category": "closing",
+    "role": "closing",
+    "source_file": "",
+    "relative_path": "",
+    "slide_index": 26,
+    "slide_width_pt": 960.0,
+    "slide_height_pt": 540.0,
+    "total_shapes": 3,
+    "total_text_boxes": 1,
+    "title_target": "",
+    "slots_count": 1,
+    "slot_targets": [
+      "#KEYWORD"
+    ]
+  }
+}

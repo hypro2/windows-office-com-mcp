@@ -1,0 +1,3187 @@
+[
+  {
+    "scenario_id": "sc_001_미니멀_타이포_원라인_표지",
+    "technique_name": "미니멀_타이포_원라인_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 미니멀 타이포 원라인 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "device_mockup_frame_screen",
+      "circular_avatar_profile_2col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_002_세로_넘버링_리스트_목차",
+    "technique_name": "세로_넘버링_리스트_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 세로 넘버링 리스트 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "full_bleed_background",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_003_좌우_1:1_히어로_사진_스플릿_카드",
+    "technique_name": "좌우_1:1_히어로_사진_스플릿_카드",
+    "inferred_mood": "soft_creative",
+    "category": "내피_슬라이스",
+    "title": "신규 모바일 앱 서비스 런칭 전략 및 고객 인터뷰 피드백 분석 결과",
+    "subtitle": "기법 검증: 좌우 1:1 히어로 사진 스플릿 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 김태훈 수석 총괄 PM",
+        "stat": "리더십 15년",
+        "description": "글로벌 핀테크 유니콘 프로덕트 총괄 역임 및 신규 서비스 엔드투엔드 기획 지휘"
+      },
+      {
+        "title": "2. 이지원 리드 아키텍트",
+        "stat": "시스템 아키텍트",
+        "description": "대규모 트래픽 분산 시스템 설계 및 클라우드 네이티브 MSA 전환 프로젝트 리드"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_004_넘버링_배지_2단카드",
+    "technique_name": "넘버링_배지_2단카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 넘버링 배지 2단카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background",
+      "card_top_image_2slot",
+      "single_inline_illustration",
+      "circular_avatar_profile_2col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_005_수직_2단_스트라이프_목차",
+    "technique_name": "수직_2단_스트라이프_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 수직 2단 스트라이프 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "hero_split_left",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_006_추진일정_월별_마일스톤표",
+    "technique_name": "추진일정_월별_마일스톤표",
+    "inferred_mood": "corporate_formal",
+    "category": "내피_슬라이스",
+    "title": "공공 데이터 개방 및 정보시스템 감리 평가 지표별 상세 조치 계획서",
+    "subtitle": "기법 검증: 추진일정 월별 마일스톤표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 제1항 물리적 보안 통제",
+        "stat": "적합 (100%)",
+        "description": "전산센터 출입 통제 3중 생체 인증 시스템 구축 및 24시간 실시간 모니터링 체계 완비"
+      },
+      {
+        "title": "2. 제2항 망분리 및 접근 권한",
+        "stat": "보완 완료",
+        "description": "개발망과 운영망 간 물리적 일방향 전송 체계 적용 및 관리자 계정 2차 인증(MFA) 강제"
+      },
+      {
+        "title": "3. 제3항 취약점 분석 및 패치",
+        "stat": "주기적 이행",
+        "description": "외부 침해사고 대응 모의훈련 분기별 1회 실시 및 제로데이 보안 패치 24시간 내 배포"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_007_KISA식_1_가_(1)_공문서형_위계본문",
+    "technique_name": "KISA식_1_가_(1)_공문서형_위계본문",
+    "inferred_mood": "corporate_formal",
+    "category": "외피_본문",
+    "title": "제14조 국가 정보보안 기본지침 및 공공 클라우드 컴플라이언스 준수 현황 점검",
+    "subtitle": "기법 검증: KISA식 1 가 (1) 공문서형 위계본문 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "hero_split_left",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 제1항 물리적 보안 통제",
+        "stat": "적합 (100%)",
+        "description": "전산센터 출입 통제 3중 생체 인증 시스템 구축 및 24시간 실시간 모니터링 체계 완비"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_008_수직_2단_가로바_리스트_카드",
+    "technique_name": "수직_2단_가로바_리스트_카드",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "엔터프라이즈 부문 분기별 매출액 성장 추이 및 영업이익률 초과 달성 성과",
+    "subtitle": "기법 검증: 수직 2단 가로바 리스트 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_2slot",
+      "hero_split_right",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      },
+      {
+        "title": "2. 영업이익 및 이익률",
+        "stat": "24.8% (▲6.2%p)",
+        "description": "고부가가치 솔루션 중심의 매출 믹스 개선을 통한 사상 최대 영업이익률 달성"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_009_수직_3단_가로바_리스트_카드",
+    "technique_name": "수직_3단_가로바_리스트_카드",
+    "inferred_mood": "tech_modern",
+    "category": "내피_슬라이스",
+    "title": "엔드투엔드 AI 파운데이션 모델 학습 가속 및 분산 GPU 클러스터 오케스트레이션",
+    "subtitle": "기법 검증: 수직 3단 가로바 리스트 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_2slot",
+      "single_inline_illustration",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. Tier 1: 엣지 데이터 수집",
+        "stat": "100k+ TPS",
+        "description": "글로벌 Anycast CDN 및 분산 카프카 클러스터를 통한 초저지연 원천 데이터 인제스천"
+      },
+      {
+        "title": "2. Tier 2: 분산 연산 엔진",
+        "stat": "GPU 512노드",
+        "description": "RoCEv2 기반 400Gbps 고속 패브릭 네트워크 및 분산 병렬 학습 분산 처리 가속화"
+      },
+      {
+        "title": "3. Tier 3: 피처 스토리지",
+        "stat": "< 5ms 지연",
+        "description": "인메모리 분산 벡터 캐시 및 하이브리드 인덱싱을 통한 초고속 임베딩 벡터 검색"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_010_2단_수평_대등_핵심과제_카드그리드",
+    "technique_name": "2단_수평_대등_핵심과제_카드그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 2단 수평 대등 핵심과제 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "device_mockup_frame_screen",
+      "card_top_image_2slot",
+      "pure_vector_no_image",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_011_표준_비즈니스_개조식_단락본문",
+    "technique_name": "표준_비즈니스_개조식_단락본문",
+    "inferred_mood": "corporate_formal",
+    "category": "외피_본문",
+    "title": "전자금융거래 안전성 확보 및 개인정보보호 거버넌스 규정 이행 세부 명세",
+    "subtitle": "기법 검증: 표준 비즈니스 개조식 단락본문 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "single_inline_illustration",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 제1항 물리적 보안 통제",
+        "stat": "적합 (100%)",
+        "description": "전산센터 출입 통제 3중 생체 인증 시스템 구축 및 24시간 실시간 모니터링 체계 완비"
+      },
+      {
+        "title": "2. 제2항 망분리 및 접근 권한",
+        "stat": "보완 완료",
+        "description": "개발망과 운영망 간 물리적 일방향 전송 체계 적용 및 관리자 계정 2차 인증(MFA) 강제"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_012_네이티브_비즈니스_통계차트",
+    "technique_name": "네이티브_비즈니스_통계차트",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "신규 사업 포트폴리오 투자 대비 수익률(ROIC) 및 글로벌 시장 점유율 지표",
+    "subtitle": "기법 검증: 네이티브 비즈니스 통계차트 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_013_3단_사진_상단결합_비주얼카드",
+    "technique_name": "3단_사진_상단결합_비주얼카드",
+    "inferred_mood": "soft_creative",
+    "category": "내피_슬라이스",
+    "title": "글로벌 혁신 서비스 프로젝트를 이끄는 핵심 리더십 및 프로덕트 팀원 소개",
+    "subtitle": "기법 검증: 3단 사진 상단결합 비주얼카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_3slot",
+      "card_top_image_2slot",
+      "card_top_image_4slot"
+    ],
+    "items": [
+      {
+        "title": "1. 김태훈 수석 총괄 PM",
+        "stat": "리더십 15년",
+        "description": "글로벌 핀테크 유니콘 프로덕트 총괄 역임 및 신규 서비스 엔드투엔드 기획 지휘"
+      },
+      {
+        "title": "2. 이지원 리드 아키텍트",
+        "stat": "시스템 아키텍트",
+        "description": "대규모 트래픽 분산 시스템 설계 및 클라우드 네이티브 MSA 전환 프로젝트 리드"
+      },
+      {
+        "title": "3. 박서연 수석 UX 디자이너",
+        "stat": "디자인 12년",
+        "description": "레드닷 어워드 본상 수상 및 사용자 중심 직관적 인터랙션 시스템 표준화 설계"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_014_스마트폰_모바일앱_지시선_콜아웃",
+    "technique_name": "스마트폰_모바일앱_지시선_콜아웃",
+    "inferred_mood": "soft_creative",
+    "category": "내피_슬라이스",
+    "title": "사용자 중심 인터랙션 디자인 및 크리에이티브 UX 리서치 전문 조직 프로필",
+    "subtitle": "기법 검증: 스마트폰 모바일앱 지시선 콜아웃 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "device_mockup_frame_screen",
+      "card_top_image_2slot",
+      "gallery_masonry_grid_6tile",
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 김태훈 수석 총괄 PM",
+        "stat": "리더십 15년",
+        "description": "글로벌 핀테크 유니콘 프로덕트 총괄 역임 및 신규 서비스 엔드투엔드 기획 지휘"
+      },
+      {
+        "title": "2. 이지원 리드 아키텍트",
+        "stat": "시스템 아키텍트",
+        "description": "대규모 트래픽 분산 시스템 설계 및 클라우드 네이티브 MSA 전환 프로젝트 리드"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_015_측면오픈형_비즈니스_명세표",
+    "technique_name": "측면오픈형_비즈니스_명세표",
+    "inferred_mood": "corporate_formal",
+    "category": "내피_슬라이스",
+    "title": "공공 데이터 개방 및 정보시스템 감리 평가 지표별 상세 조치 계획서",
+    "subtitle": "기법 검증: 측면오픈형 비즈니스 명세표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "full_bleed_background",
+      "gallery_masonry_grid_3tile"
+    ],
+    "items": [
+      {
+        "title": "1. 제1항 물리적 보안 통제",
+        "stat": "적합 (100%)",
+        "description": "전산센터 출입 통제 3중 생체 인증 시스템 구축 및 24시간 실시간 모니터링 체계 완비"
+      },
+      {
+        "title": "2. 제2항 망분리 및 접근 권한",
+        "stat": "보완 완료",
+        "description": "개발망과 운영망 간 물리적 일방향 전송 체계 적용 및 관리자 계정 2차 인증(MFA) 강제"
+      },
+      {
+        "title": "3. 제3항 취약점 분석 및 패치",
+        "stat": "주기적 이행",
+        "description": "외부 침해사고 대응 모의훈련 분기별 1회 실시 및 제로데이 보안 패치 24시간 내 배포"
+      },
+      {
+        "title": "4. 제4항 암호화 및 백업 체계",
+        "stat": "검증 완료",
+        "description": "데이터베이스 전송 구간 TLS 1.3 암호화 적용 및 원격지 소산 백업 데이터 무결성 검증"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_016_1:2_비대칭_좌측요약_+_우측상세_카드",
+    "technique_name": "1:2_비대칭_좌측요약_+_우측상세_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 1:2 비대칭 좌측요약 + 우측상세 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "device_mockup_frame_screen",
+      "card_top_image_2slot",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_017_2:1_비대칭_좌측상세_+_우측콜아웃_카드",
+    "technique_name": "2:1_비대칭_좌측상세_+_우측콜아웃_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 2:1 비대칭 좌측상세 + 우측콜아웃 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "full_bleed_background",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_018_미니멀_라인_간지",
+    "technique_name": "미니멀_라인_간지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 미니멀 라인 간지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "single_inline_illustration",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      },
+      {
+        "title": "6. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_019_Thank_You_미니멀_엔딩",
+    "technique_name": "Thank_You_미니멀_엔딩",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: Thank You 미니멀 엔딩 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_020_풀배경_다크_비주얼_표지",
+    "technique_name": "풀배경_다크_비주얼_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 풀배경 다크 비주얼 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_021_좌우_2분할_컬러블록_표지",
+    "technique_name": "좌우_2분할_컬러블록_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 좌우 2분할 컬러블록 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left",
+      "hero_split_right",
+      "pure_vector_no_image",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_022_컬러_풀블록_섹션_간지",
+    "technique_name": "컬러_풀블록_섹션_간지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 컬러 풀블록 섹션 간지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "single_inline_illustration",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_023_좌측_빅넘버_우측_섹션명_분할간지",
+    "technique_name": "좌측_빅넘버_우측_섹션명_분할간지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 좌측 빅넘버 우측 섹션명 분할간지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "single_inline_illustration",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_024_중앙_특대형_빅넘버_챕터간지",
+    "technique_name": "중앙_특대형_빅넘버_챕터간지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 중앙 특대형 빅넘버 챕터간지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background",
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_025_카드_오버레이_비즈니스_표지",
+    "technique_name": "카드_오버레이_비즈니스_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 카드 오버레이 비즈니스 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_2slot",
+      "single_inline_illustration",
+      "circular_avatar_profile_2col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_026_강조선_콜아웃_배너_장표",
+    "technique_name": "강조선_콜아웃_배너_장표",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 강조선 콜아웃 배너 장표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "hero_split_left",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_027_비주얼_배경사진_감사인사_엔딩",
+    "technique_name": "비주얼_배경사진_감사인사_엔딩",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 비주얼 배경사진 감사인사 엔딩 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "single_inline_illustration",
+      "full_bleed_background",
+      "hero_split_left",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_028_풀배경_이미지_표지",
+    "technique_name": "풀배경_이미지_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 풀배경 이미지 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_029_대형_따옴표_슬로건_박스",
+    "technique_name": "대형_따옴표_슬로건_박스",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 대형 따옴표 슬로건 박스 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background",
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_030_3단_아이콘_원형_헤더_카드",
+    "technique_name": "3단_아이콘_원형_헤더_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 3단 아이콘 원형 헤더 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_031_3단_경영실적_증감배지_KPI",
+    "technique_name": "3단_경영실적_증감배지_KPI",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "2026년 상반기 글로벌 핵심 경영실적 및 전사 재무 성장률 종합 분석 보고",
+    "subtitle": "기법 검증: 3단 경영실적 증감배지 KPI (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "device_mockup_frame_screen",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      },
+      {
+        "title": "2. 영업이익 및 이익률",
+        "stat": "24.8% (▲6.2%p)",
+        "description": "고부가가치 솔루션 중심의 매출 믹스 개선을 통한 사상 최대 영업이익률 달성"
+      },
+      {
+        "title": "3. 글로벌 유료 고객사",
+        "stat": "1,640개사",
+        "description": "북미 및 EMEA 권역 엔터프라이즈 신규 고객사 320개사 순증 및 계약 갱신율 98.5%"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_032_수직_4단_가로바_리스트_카드",
+    "technique_name": "수직_4단_가로바_리스트_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 수직 4단 가로바 리스트 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "full_bleed_background",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_033_4단_가로_파이프라인형_카드그리드",
+    "technique_name": "4단_가로_파이프라인형_카드그리드",
+    "inferred_mood": "tech_modern",
+    "category": "내피_슬라이스",
+    "title": "엔드투엔드 AI 파운데이션 모델 학습 가속 및 분산 GPU 클러스터 오케스트레이션",
+    "subtitle": "기법 검증: 4단 가로 파이프라인형 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "circular_avatar_profile_3col",
+      "hero_split_left",
+      "circular_avatar_profile_4col"
+    ],
+    "items": [
+      {
+        "title": "1. Tier 1: 엣지 데이터 수집",
+        "stat": "100k+ TPS",
+        "description": "글로벌 Anycast CDN 및 분산 카프카 클러스터를 통한 초저지연 원천 데이터 인제스천"
+      },
+      {
+        "title": "2. Tier 2: 분산 연산 엔진",
+        "stat": "GPU 512노드",
+        "description": "RoCEv2 기반 400Gbps 고속 패브릭 네트워크 및 분산 병렬 학습 분산 처리 가속화"
+      },
+      {
+        "title": "3. Tier 3: 피처 스토리지",
+        "stat": "< 5ms 지연",
+        "description": "인메모리 분산 벡터 캐시 및 하이브리드 인덱싱을 통한 초고속 임베딩 벡터 검색"
+      },
+      {
+        "title": "4. Tier 4: 서빙 게이트웨이",
+        "stat": "99.999% 가용",
+        "description": "무중단 카나리 배포 파이프라인 및 오토스케일링 기반 글로벌 트래픽 탄력 분산"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_034_Q&A_질의응답_엔딩",
+    "technique_name": "Q&A_질의응답_엔딩",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: Q&A 질의응답 엔딩 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background",
+      "pure_vector_no_image",
+      "hero_split_right",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_035_볼드_빅타이포_임팩트_표지",
+    "technique_name": "볼드_빅타이포_임팩트_표지",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 볼드 빅타이포 임팩트 표지 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "card_top_image_2slot",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_036_5단_슬림_핵심과제_카드그리드",
+    "technique_name": "5단_슬림_핵심과제_카드그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 5단 슬림 핵심과제 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "gallery_masonry_grid_5tile",
+      "gallery_masonry_grid_4tile",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_037_상하_3단_스텝_프로세스_바",
+    "technique_name": "상하_3단_스텝_프로세스_바",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 상하 3단 스텝 프로세스 바 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_2slot",
+      "single_inline_illustration",
+      "gallery_masonry_grid_3tile"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_038_동심원_3중_과녁모델",
+    "technique_name": "동심원_3중_과녁모델",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 동심원 3중 과녁모델 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_039_연락처결합_클로징_엔딩",
+    "technique_name": "연락처결합_클로징_엔딩",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 연락처결합 클로징 엔딩 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "single_inline_illustration",
+      "card_top_image_2slot",
+      "device_mockup_frame_screen",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_040_장문형_내러티브_설명문_본문",
+    "technique_name": "장문형_내러티브_설명문_본문",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_본문",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 장문형 내러티브 설명문 본문 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "full_bleed_background",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_041_선형_3단계_셰브론_파이프라인",
+    "technique_name": "선형_3단계_셰브론_파이프라인",
+    "inferred_mood": "tech_modern",
+    "category": "내피_슬라이스",
+    "title": "대규모 실시간 데이터 스트리밍 파이프라인 및 고성능 분산 스토리지 토폴로지",
+    "subtitle": "기법 검증: 선형 3단계 셰브론 파이프라인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. Tier 1: 엣지 데이터 수집",
+        "stat": "100k+ TPS",
+        "description": "글로벌 Anycast CDN 및 분산 카프카 클러스터를 통한 초저지연 원천 데이터 인제스천"
+      },
+      {
+        "title": "2. Tier 2: 분산 연산 엔진",
+        "stat": "GPU 512노드",
+        "description": "RoCEv2 기반 400Gbps 고속 패브릭 네트워크 및 분산 병렬 학습 분산 처리 가속화"
+      },
+      {
+        "title": "3. Tier 3: 피처 스토리지",
+        "stat": "< 5ms 지연",
+        "description": "인메모리 분산 벡터 캐시 및 하이브리드 인덱싱을 통한 초고속 임베딩 벡터 검색"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_042_넘버링_배지_4단카드",
+    "technique_name": "넘버링_배지_4단카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 넘버링 배지 4단카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "circular_avatar_profile_4col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_043_아이콘_헤더_결합_2단카드",
+    "technique_name": "아이콘_헤더_결합_2단카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 아이콘 헤더 결합 2단카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_044_체크포인트_불릿_개조식_본문",
+    "technique_name": "체크포인트_불릿_개조식_본문",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_본문",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 체크포인트 불릿 개조식 본문 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "hero_split_left",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_045_Pros_vs_Cons_장단점_대조표",
+    "technique_name": "Pros_vs_Cons_장단점_대조표",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: Pros vs Cons 장단점 대조표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left",
+      "full_bleed_background",
+      "pure_vector_no_image",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_046_상단요약박스_+_하단개조식_본문",
+    "technique_name": "상단요약박스_+_하단개조식_본문",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 상단요약박스 + 하단개조식 본문 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      },
+      {
+        "title": "6. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_047_수직_3단_스트라이프_목차",
+    "technique_name": "수직_3단_스트라이프_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 수직 3단 스트라이프 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "card_top_image_3slot",
+      "circular_avatar_profile_2col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_048_1개_특대형_빅넘버_단독강조",
+    "technique_name": "1개_특대형_빅넘버_단독강조",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "신규 사업 포트폴리오 투자 대비 수익률(ROIC) 및 글로벌 시장 점유율 지표",
+    "subtitle": "기법 검증: 1개 특대형 빅넘버 단독강조 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 1,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "single_inline_illustration",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_049_오피스약도_본사주소_안내블록",
+    "technique_name": "오피스약도_본사주소_안내블록",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 오피스약도 본사주소 안내블록 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_right",
+      "hero_split_left",
+      "pure_vector_no_image",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_050_가로_3열_카드형_목차",
+    "technique_name": "가로_3열_카드형_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 가로 3열 카드형 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "circular_avatar_profile_3col",
+      "card_top_image_3slot",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_051_가로_4열_카드형_목차",
+    "technique_name": "가로_4열_카드형_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 가로 4열 카드형 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_3slot",
+      "full_bleed_background",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_052_3단_이미지_쇼케이스_그리드",
+    "technique_name": "3단_이미지_쇼케이스_그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 3단 이미지 쇼케이스 그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot",
+      "gallery_masonry_grid_3tile",
+      "hero_split_left",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_053_멀티트랙_간트차트_일정표",
+    "technique_name": "멀티트랙_간트차트_일정표",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 멀티트랙 간트차트 일정표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_4slot",
+      "circular_avatar_profile_4col",
+      "circular_avatar_profile_3col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_054_3단_표준_핵심과제_카드그리드",
+    "technique_name": "3단_표준_핵심과제_카드그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 3단 표준 핵심과제 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "circular_avatar_profile_3col",
+      "full_bleed_background",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_055_Top_1~5_랭킹_리더보드",
+    "technique_name": "Top_1~5_랭킹_리더보드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: Top 1~5 랭킹 리더보드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "circular_avatar_profile_3col",
+      "pure_vector_no_image",
+      "single_inline_illustration",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_056_6단_슬림_카드그리드",
+    "technique_name": "6단_슬림_카드그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 6단 슬림 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_left",
+      "circular_avatar_profile_3col",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_057_4단_비주얼_갤러리",
+    "technique_name": "4단_비주얼_갤러리",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 4단 비주얼 갤러리 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot",
+      "hero_split_right",
+      "circular_avatar_profile_3col",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_058_4단_대시보드_핵심수치_그리드",
+    "technique_name": "4단_대시보드_핵심수치_그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 4단 대시보드 핵심수치 그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "hero_split_right",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_059_비대칭_매스너리_포트폴리오",
+    "technique_name": "비대칭_매스너리_포트폴리오",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 비대칭 매스너리 포트폴리오 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "gallery_masonry_grid_6tile",
+      "circular_avatar_profile_3col",
+      "circular_avatar_profile_4col",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_060_4열_사각사진_프로젝트팀_카드",
+    "technique_name": "4열_사각사진_프로젝트팀_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 4열 사각사진 프로젝트팀 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot",
+      "gallery_masonry_grid_6tile",
+      "card_top_image_4slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_061_좌측_빅넘버_+_우측_상세불릿_분할형",
+    "technique_name": "좌측_빅넘버_+_우측_상세불릿_분할형",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 좌측 빅넘버 + 우측 상세불릿 분할형 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "hero_split_left",
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_062_2단_주요지표_대조카드",
+    "technique_name": "2단_주요지표_대조카드",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "엔터프라이즈 부문 분기별 매출액 성장 추이 및 영업이익률 초과 달성 성과",
+    "subtitle": "기법 검증: 2단 주요지표 대조카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background",
+      "single_inline_illustration",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      },
+      {
+        "title": "2. 영업이익 및 이익률",
+        "stat": "24.8% (▲6.2%p)",
+        "description": "고부가가치 솔루션 중심의 매출 믹스 개선을 통한 사상 최대 영업이익률 달성"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_063_세계지도_글로벌진출_거점핀",
+    "technique_name": "세계지도_글로벌진출_거점핀",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 세계지도 글로벌진출 거점핀 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_right",
+      "pure_vector_no_image",
+      "card_top_image_2slot",
+      "gallery_masonry_grid_4tile"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_064_2열_원형사진_임원진_프로필",
+    "technique_name": "2열_원형사진_임원진_프로필",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 2열 원형사진 임원진 프로필 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "circular_avatar_profile_2col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_065_상하_2단_스텝_프로세스_바",
+    "technique_name": "상하_2단_스텝_프로세스_바",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 상하 2단 스텝 프로세스 바 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left",
+      "single_inline_illustration",
+      "device_mockup_frame_screen",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_066_3단_피라미드(비전-전략-과제)",
+    "technique_name": "3단_피라미드(비전-전략-과제)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 3단 피라미드(비전-전략-과제) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot",
+      "hero_split_right",
+      "card_top_image_4slot",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_067_3열_원형사진_임원진_프로필",
+    "technique_name": "3열_원형사진_임원진_프로필",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 3열 원형사진 임원진 프로필 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "circular_avatar_profile_3col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_068_AS-IS_vs_TO-BE_2단_대칭패널",
+    "technique_name": "AS-IS_vs_TO-BE_2단_대칭패널",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: AS-IS vs TO-BE 2단 대칭패널 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "hero_split_left",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_069_4단_피라미드(철학-비전-전략-실행과제)",
+    "technique_name": "4단_피라미드(철학-비전-전략-실행과제)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 4단 피라미드(철학-비전-전략-실행과제) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_right",
+      "device_mockup_frame_screen",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_070_3단_가격표_티어_비교(Basic-Pro-Enterprise)",
+    "technique_name": "3단_가격표_티어_비교(Basic-Pro-Enterprise)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 3단 가격표 티어 비교(Basic-Pro-Enterprise) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_071_수직_4단_스트라이프_목차",
+    "technique_name": "수직_4단_스트라이프_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 수직 4단 스트라이프 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_3slot",
+      "card_top_image_4slot",
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_072_선형_3단계_화살표_체인",
+    "technique_name": "선형_3단계_화살표_체인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 선형 3단계 화살표 체인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_073_타임라인_연결형_목차",
+    "technique_name": "타임라인_연결형_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 타임라인 연결형 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_right",
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_074_비중_도넛게이지_점유율_지표",
+    "technique_name": "비중_도넛게이지_점유율_지표",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "엔터프라이즈 부문 분기별 매출액 성장 추이 및 영업이익률 초과 달성 성과",
+    "subtitle": "기법 검증: 비중 도넛게이지 점유율 지표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_3slot",
+      "hero_split_left",
+      "card_top_image_2slot",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      },
+      {
+        "title": "2. 영업이익 및 이익률",
+        "stat": "24.8% (▲6.2%p)",
+        "description": "고부가가치 솔루션 중심의 매출 믹스 개선을 통한 사상 최대 영업이익률 달성"
+      },
+      {
+        "title": "3. 글로벌 유료 고객사",
+        "stat": "1,640개사",
+        "description": "북미 및 EMEA 권역 엔터프라이즈 신규 고객사 320개사 순증 및 계약 갱신율 98.5%"
+      },
+      {
+        "title": "4. 연구개발(R&D) 투자",
+        "stat": "2,150억원",
+        "description": "차세대 독자 AI 파운데이션 모델 개발 및 글로벌 핵심 특허 124건 출원 완료"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_075_상태배지결합_업무진척_현황표",
+    "technique_name": "상태배지결합_업무진척_현황표",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 상태배지결합 업무진척 현황표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_076_수평_게이지_목표달성률_프로그레스바",
+    "technique_name": "수평_게이지_목표달성률_프로그레스바",
+    "inferred_mood": "executive_impact",
+    "category": "내피_슬라이스",
+    "title": "2026년 상반기 글로벌 핵심 경영실적 및 전사 재무 성장률 종합 분석 보고",
+    "subtitle": "기법 검증: 수평 게이지 목표달성률 프로그레스바 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background",
+      "single_inline_illustration",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 연결 누적 매출액",
+        "stat": "1조 4,820억",
+        "description": "전년 동기 대비 +28.4% 견고한 외형 성장 견인 및 글로벌 매출 비중 45% 돌파"
+      },
+      {
+        "title": "2. 영업이익 및 이익률",
+        "stat": "24.8% (▲6.2%p)",
+        "description": "고부가가치 솔루션 중심의 매출 믹스 개선을 통한 사상 최대 영업이익률 달성"
+      },
+      {
+        "title": "3. 글로벌 유료 고객사",
+        "stat": "1,640개사",
+        "description": "북미 및 EMEA 권역 엔터프라이즈 신규 고객사 320개사 순증 및 계약 갱신율 98.5%"
+      },
+      {
+        "title": "4. 연구개발(R&D) 투자",
+        "stat": "2,150억원",
+        "description": "차세대 독자 AI 파운데이션 모델 개발 및 글로벌 핵심 특허 124건 출원 완료"
+      },
+      {
+        "title": "5. 주당순이익(EPS)",
+        "stat": "4,850원 (▲31%)",
+        "description": "지속적 자사주 매입 소각 및 주주환원율 35% 달성으로 시장 신뢰도 대폭 제고"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_077_4열_원형사진_임원진_프로필",
+    "technique_name": "4열_원형사진_임원진_프로필",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 4열 원형사진 임원진 프로필 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "circular_avatar_profile_4col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_078_2x2_직교_우선순위_매트릭스(난이도_vs_효과)",
+    "technique_name": "2x2_직교_우선순위_매트릭스(난이도_vs_효과)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 2x2 직교 우선순위 매트릭스(난이도 vs 효과) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "hero_split_left",
+      "circular_avatar_profile_2col",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_079_넘버링_배지_3단카드",
+    "technique_name": "넘버링_배지_3단카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 넘버링 배지 3단카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "circular_avatar_profile_2col",
+      "hero_split_left",
+      "circular_avatar_profile_3col"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_080_6단_2x3_격자형_카드그리드",
+    "technique_name": "6단_2x3_격자형_카드그리드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 6단 2x3 격자형 카드그리드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "device_mockup_frame_screen"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_081_상하_4단_스텝_프로세스_바",
+    "technique_name": "상하_4단_스텝_프로세스_바",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 상하 4단 스텝 프로세스 바 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_left"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_082_SWOT_4분할_전략분석카드(SO-ST-WO-WT)",
+    "technique_name": "SWOT_4분할_전략분석카드(SO-ST-WO-WT)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: SWOT 4분할 전략분석카드(SO-ST-WO-WT) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      },
+      {
+        "title": "6. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_083_4단_사진_상단결합_비주얼카드",
+    "technique_name": "4단_사진_상단결합_비주얼카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 4단 사진 상단결합 비주얼카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_3slot",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_084_4대_기둥_신전모델(Pillars on Base)",
+    "technique_name": "4대_기둥_신전모델(Pillars on Base)",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 4대 기둥 신전모델(Pillars on Base) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "gallery_masonry_grid_6tile"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      },
+      {
+        "title": "6. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_085_선형_6단계_화살표_체인",
+    "technique_name": "선형_6단계_화살표_체인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 선형 6단계 화살표 체인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      },
+      {
+        "title": "6. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_086_역할분담_R&R_조직표",
+    "technique_name": "역할분담_R&R_조직표",
+    "inferred_mood": "soft_creative",
+    "category": "내피_슬라이스",
+    "title": "사용자 중심 인터랙션 디자인 및 크리에이티브 UX 리서치 전문 조직 프로필",
+    "subtitle": "기법 검증: 역할분담 R&R 조직표 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 6,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 김태훈 수석 총괄 PM",
+        "stat": "리더십 15년",
+        "description": "글로벌 핀테크 유니콘 프로덕트 총괄 역임 및 신규 서비스 엔드투엔드 기획 지휘"
+      },
+      {
+        "title": "2. 이지원 리드 아키텍트",
+        "stat": "시스템 아키텍트",
+        "description": "대규모 트래픽 분산 시스템 설계 및 클라우드 네이티브 MSA 전환 프로젝트 리드"
+      },
+      {
+        "title": "3. 박서연 수석 UX 디자이너",
+        "stat": "디자인 12년",
+        "description": "레드닷 어워드 본상 수상 및 사용자 중심 직관적 인터랙션 시스템 표준화 설계"
+      },
+      {
+        "title": "4. 정민수 데이터 사이언티스트",
+        "stat": "AI/ML 리서치",
+        "description": "추천 랭킹 모델 고도화 및 고객 행동 데이터 기반 초개인화 알고리즘 연구 개발"
+      },
+      {
+        "title": "5. 최유진 브랜드 마케팅 리드",
+        "stat": "그로스 마케팅",
+        "description": "글로벌 GTM 전략 수립 및 오가닉 바이럴 캠페인을 통한 유저 획득 비용 40% 절감"
+      },
+      {
+        "title": "6. 김태훈 수석 총괄 PM",
+        "stat": "리더십 15년",
+        "description": "글로벌 핀테크 유니콘 프로덕트 총괄 역임 및 신규 서비스 엔드투엔드 기획 지휘"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_087_퍼즐조각_결합형_파트너십",
+    "technique_name": "퍼즐조각_결합형_파트너십",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 퍼즐조각 결합형 파트너십 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_right",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_088_선형_4단계_화살표_체인",
+    "technique_name": "선형_4단계_화살표_체인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 선형 4단계 화살표 체인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_089_중심축_3개년_마일스톤_타임라인",
+    "technique_name": "중심축_3개년_마일스톤_타임라인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 중심축 3개년 마일스톤 타임라인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 3,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "card_top_image_2slot",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_090_5열_사각사진_프로젝트팀_카드",
+    "technique_name": "5열_사각사진_프로젝트팀_카드",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 5열 사각사진 프로젝트팀 카드 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "gallery_masonry_grid_5tile"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_091_선형_2단계_화살표_체인",
+    "technique_name": "선형_2단계_화살표_체인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "2030 중장기 지속가능 경영을 위한 3대 핵심 추진 과제 및 전략적 실행 방향",
+    "subtitle": "기법 검증: 선형 2단계 화살표 체인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "card_top_image_3slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_092_선형_5단계_화살표_체인",
+    "technique_name": "선형_5단계_화살표_체인",
+    "inferred_mood": "minimal_clean",
+    "category": "내피_슬라이스",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 선형 5단계 화살표 체인 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 5,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "hero_split_right"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      },
+      {
+        "title": "3. 신성장 동력 비즈니스 발굴",
+        "stat": "핵심 과제 03",
+        "description": "AI 기반 융합 서비스 신사업 모델 실증 및 글로벌 파트너십 생태계 적극 확장"
+      },
+      {
+        "title": "4. ESG 지속가능 거버넌스 확립",
+        "stat": "핵심 과제 04",
+        "description": "친환경 탄소중립 이행 로드맵 수립 및 윤리 경영 내부 통제 시스템 강화"
+      },
+      {
+        "title": "5. 미래 인재 육성 및 조직 문화",
+        "stat": "핵심 과제 05",
+        "description": "디지털 리터러시 역량 강화 프로그램 운영 및 자율적 수평 소통 문화 정착"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_093_좌우_분할_대형타이틀_목차",
+    "technique_name": "좌우_분할_대형타이틀_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "전사 비즈니스 프로세스 혁신(PI) 및 민첩한 조직 문화 전환 로드맵",
+    "subtitle": "기법 검증: 좌우 분할 대형타이틀 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "device_mockup_frame_screen",
+      "card_top_image_2slot"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_094_수평_3~4단_레이어드_스택(인프라-플랫폼-서비스)",
+    "technique_name": "수평_3~4단_레이어드_스택(인프라-플랫폼-서비스)",
+    "inferred_mood": "tech_modern",
+    "category": "내피_슬라이스",
+    "title": "차세대 멀티 클라우드 분산 인프라 아키텍처 및 쿠버네티스 마이크로서비스 설계",
+    "subtitle": "기법 검증: 수평 3~4단 레이어드 스택(인프라-플랫폼-서비스) (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 4,
+    "layout_type": "vertical_stack",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "single_inline_illustration"
+    ],
+    "items": [
+      {
+        "title": "1. Tier 1: 엣지 데이터 수집",
+        "stat": "100k+ TPS",
+        "description": "글로벌 Anycast CDN 및 분산 카프카 클러스터를 통한 초저지연 원천 데이터 인제스천"
+      },
+      {
+        "title": "2. Tier 2: 분산 연산 엔진",
+        "stat": "GPU 512노드",
+        "description": "RoCEv2 기반 400Gbps 고속 패브릭 네트워크 및 분산 병렬 학습 분산 처리 가속화"
+      },
+      {
+        "title": "3. Tier 3: 피처 스토리지",
+        "stat": "< 5ms 지연",
+        "description": "인메모리 분산 벡터 캐시 및 하이브리드 인덱싱을 통한 초고속 임베딩 벡터 검색"
+      },
+      {
+        "title": "4. Tier 4: 서빙 게이트웨이",
+        "stat": "99.999% 가용",
+        "description": "무중단 카나리 배포 파이프라인 및 오토스케일링 기반 글로벌 트래픽 탄력 분산"
+      }
+    ]
+  },
+  {
+    "scenario_id": "sc_095_아이콘_결합_그리드_목차",
+    "technique_name": "아이콘_결합_그리드_목차",
+    "inferred_mood": "minimal_clean",
+    "category": "외피_골격",
+    "title": "디지털 트랜스포메이션 가속화를 위한 4대 중점 이행 전략 및 기대 가치",
+    "subtitle": "기법 검증: 아이콘 결합 그리드 목차 (청사진 수치 기반 무종속 스트레스 테스트)",
+    "slot_count": 2,
+    "layout_type": "horizontal_grid",
+    "supported_image_layouts": [
+      "pure_vector_no_image",
+      "full_bleed_background"
+    ],
+    "items": [
+      {
+        "title": "1. 디지털 코어 시스템 고도화",
+        "stat": "핵심 과제 01",
+        "description": "노후 레거시 시스템의 전면 클라우드 전환을 통한 운영 효율성 극대화 및 비용 절감"
+      },
+      {
+        "title": "2. 데이터 기반 의사결정 체계",
+        "stat": "핵심 과제 02",
+        "description": "전사 단일 진실 공급원(SSOT) 구축 및 실시간 경영 대시보드 기반 민첩성 확보"
+      }
+    ]
+  }
+]
